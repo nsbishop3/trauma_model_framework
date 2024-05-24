@@ -1,6 +1,6 @@
 # Trauma Model Framework
 
-This version of the repo is designed for the double-blind review of the paper "INCORPORATING TRAUMA PROPAGATION AND TRANSMISSION IN AGENT BASED MODELS: A PRELIMINARY FRAMEWORK" for the ANNSIM 2024 conference.
+This is the repo for the paper "INCORPORATING TRAUMA PROPAGATION AND TRANSMISSION IN AGENT BASED MODELS: A PRELIMINARY FRAMEWORK" at the ANNSIM 2024 conference.
 
 This framework requires the use of Anaconda (https://www.anaconda.com/download)
 
@@ -25,3 +25,5 @@ This command will open your default internet browser to show a visualization of 
 Running the framework (or any ABM) without visualization is faster and opens the door to parallelization of runs. This framework does not have any example code for running an ABM in parallel, but more information on that can be found here: https://mesa.readthedocs.io/en/stable/tutorials/intro_tutorial.html. This framework is designed for researchers with little knowledge of Python and no knowledge of designing an ABM, so the code is designed for single-thread usage that can easily be debugged.
 
 To run the model framework without visualization, simply open run_and_analyze.py in a Python IDE and run the script.
+
+Please provide any feedback on this framework to nbishop3@gmu.edu
